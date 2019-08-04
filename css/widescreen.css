@@ -1,0 +1,19 @@
+/* Align Icons To Left */
+
+#what .items .item {
+  display: flex;
+  text-align: left;
+}
+
+/* Position Icon */
+
+#what .items .item i {
+  margin-right: 1.3rem;
+  align-self: center;
+  /* without the aling-self center, the icon backgrounds would have been ellipse */
+  margin-bottom: 0;
+}
+
+#contact .map {
+  flex: 2;
+}

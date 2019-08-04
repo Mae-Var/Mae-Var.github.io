@@ -1,0 +1,31 @@
+At minimum, be clear on these points:
+
+What types of personal data are collected through the contact form?
+Your name, email address is the only data we collect.
+
+For what purposes those data necessary?
+So we could reply to any of your queries.
+
+Who can access the data?
+Only the manager of DSC Gaming.
+
+Are the data stored in some way? If so, where and for how long are they stored?
+The data is stored as long as there is an ongoing conversation with the subject. Any closed topics are being deleted, including all the data related to it.
+
+Are the data shared with third-party entities? If so, who are they?
+Nothing is shared - it's for contact purposes only.
+
+In which country will the data be processed?
+We are situated in Bulgaria, but we're using an online mail for the contact form.
+
+
+What security measures are taken to protect the data?
+We're using a secure (HTTPS) connection and deleting any closed topic, together with the provided details (name & mail).
+
+
+Can data subjects request exporting or deleting their data?
+As long as the actual data haven't been deleted already - yes.
+
+
+
+
