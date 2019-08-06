@@ -6,9 +6,9 @@ function validate() {
 
   if (
     name.value.trim() == '' ||
-    subject.value.trim() == '' ||
+    subject.length >= 2 ||
     email.value.trim() == '' ||
-    message.value.trim() == ''
+    message.length >= 10
   ) {
     alert('Please, fill in all fields.');
     return false;
