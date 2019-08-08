@@ -85,6 +85,15 @@ p {
   padding: 3rem;
 }
 
+input[type=submit] {
+  display: inline-block;
+  background: #444;
+  color: #fff;
+  padding: 0.5rem 2rem;
+  border: none;
+  border-radius: 5px;
+}
+
 .btn {
   display: inline-block;
   color: #fff;
@@ -225,22 +234,22 @@ p {
 
 /* with the below code, we make so the contact form is 50% of the space - see the page for info */
 #contact .map,
-#contact .contact-form {
+#contact .contact-form2 {
   flex: 1;
 }
 
-#contact .contact-form .form-group {
+#contact .contact-form2 .form-group {
   margin: 0.75rem;
 }
 
 /* with the below, you add every label of the list to be on top of the input field */
-#contact .contact-form label {
+#contact .contact-form2 label {
   display: block;
 }
 
 /* the below adds padding & spreads the input fields to 100% of the area, makes the text fields larger */
-#contact .contact-form input,
-#contact .contact-form textarea {
+#contact .contact-form2 input,
+#contact .contact-form2 textarea {
   width: 100%;
   padding: 0.5rem;
 }
